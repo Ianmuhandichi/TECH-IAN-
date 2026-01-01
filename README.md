@@ -33,10 +33,10 @@
 ## ⚡ Quick Links
 
 <p align="center">
-  <a href="https://github.com/Ianmuhandichi/TECH-IAN" target="_blank">
+  <a href="https://github.com/Ianmuhandichi/TECH-IAN-" target="_blank">
     <img src="https://img.shields.io/badge/GitHub_Repo-Click_Here-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
   </a>
-  <a href="https://github.com/Ianmuhandichi/TECH-IAN/issues" target="_blank">
+  <a href="https://github.com/Ianmuhandichi/TECH-IAN-/issues" target="_blank">
     <img src="https://img.shields.io/badge/🐛_Report_an_Issue-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=red&color=white" alt="Report an Issue"/>
   </a>
 </p>
@@ -67,19 +67,19 @@
 ## 🚀 Deploy IAN TECH BOT Instantly
 
 <p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/Ianmuhandichi/TECH-IAN" target="_blank">
+<a href="https://heroku.com/deploy?template=https://github.com/Ianmuhandichi/TECH-IAN-" target="_blank">
   <img src="https://img.shields.io/badge/Deploy_to_Heroku-7056bf?style=for-the-badge&logo=heroku&logoColor=white" alt="Deploy to Heroku">
 </a>
 
-<a href="https://replit.com/github/Ianmuhandichi/TECH-IAN" target="_blank">
+<a href="https://replit.com/github/Ianmuhandichi/TECH-IAN-" target="_blank">
   <img src="https://img.shields.io/badge/Deploy_to_Replit-0d101e?style=for-the-badge&logo=replit&logoColor=white" alt="Deploy to Replit">
 </a>
 
-<a href="https://railway.app/new/template?template=https://github.com/Ianmuhandichi/TECH-IAN" target="_blank">
+<a href="https://railway.app/new/template?template=https://github.com/Ianmuhandichi/TECH-IAN-" target="_blank">
   <img src="https://img.shields.io/badge/Deploy_to_Railway-0b0d0e?style=for-the-badge&logo=railway&logoColor=white" alt="Deploy to Railway">
 </a>
 
-<a href="https://render.com/deploy?repo=https://github.com/Ianmuhandichi/TECH-IAN" target="_blank">
+<a href="https://render.com/deploy?repo=https://github.com/Ianmuhandichi/TECH-IAN-" target="_blank">
   <img src="https://img.shields.io/badge/Deploy_to_Render-46a3b7?style=for-the-badge&logo=render&logoColor=white" alt="Deploy to Render">
 </a>
 
@@ -94,6 +94,46 @@
 
 > 🧊 Ian Tech doesn't yap.  
 > 💻 It calculates.  
+> ⚙️ A Node.js creation with zero emotions and maximum precision.  
+> 🧠 It doesn't serve — it *delivers*.  
+> 🌘 Your WhatsApp becomes its **territory**
+
+---
+
+## 💀 𝕎𝕙𝕒𝕥 𝕀𝕥 𝔻𝕠𝕖𝕤
+
+- 💬 Replies with intelligent, context-aware responses  
+- 🧠 Processes commands faster than thought  
+- 📱 Manages your WhatsApp with surgical precision  
+- ⚡ Operates silently… then delivers results instantly  
+
+> Looking for a basic chatbot?  
+> ❌ Wrong solution.  
+> ✅ This one **executes first**, then confirms 🔥
+
+---
+
+## ⚙️ 𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜
+
+- ⚡ **Node.js** — because speed is everything  
+- 📱 **Baileys** — the engine of the ultimate WhatsApp predator  
+- 🌌 **Next-gen session management** — persistent and reliable  
+- 🛡️ **IAN TECH Enhanced Protocol** — coded for excellence, tested for performance
+
+---
+
+## 🙊 𝔻𝕚𝕤𝕔𝕝𝕒𝕚𝕞𝕖𝕣
+
+> ⚖️ This is a high-performance WhatsApp automation tool  
+> 🔧 Built with cutting-edge technology for maximum reliability  
+> 👁️ This bot doesn't crash — it **maintains uptime**
+
+---
+
+<p align="center">
+  👤 Built by <b>IAN TECH</b><br>
+  <i>You're not running a bot.<br>You're deploying a **technological advantage**.</i>
+</p>> 💻 It calculates.  
 > ⚙️ A Node.js creation with zero emotions and maximum precision.  
 > 🧠 It doesn't serve — it *delivers*.  
 > 🌘 Your WhatsApp becomes its **territory**
