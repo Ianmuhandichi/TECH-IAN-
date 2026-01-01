@@ -1,62 +1,86 @@
-
 <div align="center"> 
-<strong>JUNE X </strong>
-    <br>
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=June-Official;Multi+Device+Whatsapp+Bot;Made+by+supreme" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Here+I+come+%F0%9F%98%82%F0%9F%AB%B4IAN+TECH+;Ian+Tech+the+master+mind;The+Future+is+Here+%F0%9F%92%A1;Powered+by+Innovation+%E2%9A%A1%EF%B8%8F" alt="Typing SVG" style="font-size: 50px;"/>
   </a> 
 </div> 
+<p align="center">
+  <img style="width: 500px; height: 600px;" src="https://files.catbox.moe/f7f4r1.jpg" alt="IAN TECH Bot" />
+</p>
 
-<div align="center"> 
-  <a href=""> 
-    <img src="https://files.catbox.moe/pr5ynj.jpg" alt="JUNE X" height="300"> 
-  </a> 
-</div>
+<h1 align="center">
+⚡🤖<br>
+<span style="font-size: 42px;">
+  <b>IAN TECH</b>
+</span><br>
+<i><sub>by IAN TECH •</sub></i>
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=the+bot+supports+deployment;on+all+free+panels+easily)](https://git.io/typing-svg)
+<p align="center"><i>"IAN TECH. The ultimate WhatsApp bot solution."</i></p>
 
-<div align="center">    
-<strong> DEPLOY JUNE-X </strong>
-    <br>
-  <a href="https://auth-ivory-delta.vercel.app/">
-    <img src="https://img.shields.io/badge/Deploy%20June-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkgreen" alt="FORK REPO"/>
+<p align="center">
+  <b>Created by <code>Ian Tech</code>, engineered for excellence — powered by cutting-edge technology 🚀💡</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-🟢_v18+-black?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Baileys-💚_v7-black?style=for-the-badge&logo=whatsapp" />
+  <img src="https://img.shields.io/badge/IAN_TECH_Enhanced-🔮_Premium-black?style=for-the-badge&logo=starship" />
+  <img src="https://img.shields.io/badge/Innovation_Fueled-🚀_Next_Gen-black?style=for-the-badge" />
+</p>
+
+---
+
+## ⚡ Quick Links
+
+<p align="center">
+  <a href="https://github.com/Ianmuhandichi/IAN-TEC" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Repo-Click_Here-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
   </a>
-</div>
+</p>
 
-<br>
+---
+
+## 🔗 Session Pairs IAN TECH
+
 <div align="center">
-<strong> SESSION PAIRS </strong>
-    <br>
   <a href="https://pairtesth2-e3bee12e097b.herokuapp.com/pair" target="_blank">
-    <img src="https://img.shields.io/badge/pair %20code 1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkred" alt="PAIR"/>
+    <img src="https://img.shields.io/badge/🔗 IAN TECH PAIR CODE 1-100000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=green&color=white" alt="IAN TECH PAIR"/>
   </a>
 </div>
 <br>
 <p align="center">
     <a href="https://pairjunexbot-3016be274fc1.herokuapp.com/pair" target="_blank">
-        <img alt="Download zip" src="https://img.shields.io/badge/PAIR CODE%20 2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
+        <img alt="IAN TECH PAIR" src="https://img.shields.io/badge/🔗 IAN TECH PAIR CODE 2-100000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=blue&color=white"/>
     </a>
 </p>
-
-
 <p align="center">
     <a href="https://pairjunexbot2-17a832683087.herokuapp.com/pair" target="_blank">
-        <img alt="Download zip" src="https://img.shields.io/badge/PAIR CODE%20 3-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=purple"/>
+        <img alt="IAN TECH PAIR" src="https://img.shields.io/badge/🔗 IAN TECH PAIR CODE 3-100000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=purple&color=white"/>
     </a>
 </p>
 
+---
 
-<p align="center">  
-<strong> DOWNLOAD ZIP </strong>
-    <br>
-    <a href="https://codeload.github.com/vinpink2/JUNE-X/zip/refs/heads/main" target="_blank">
-        <img alt="Download zip" src="https://img.shields.io/badge/DOWNLOAD%20 ZIP-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkblue"/>
-    </a>
+## 🚀 Deploy IAN TECH BOT Instantly
+
+<p align="center">
+<a href="https://heroku.com/deploy?template=https://github.com/Ianmuhandichi/IAN-TEC" target="_blank">
+  <img src="https://img.shields.io/badge/Deploy_to_Heroku-7056bf?style=for-the-badge&logo=heroku&logoColor=white" alt="Deploy to Heroku">
+</a>
+
+<a href="https://replit.com/github/Ianmuhandichi/IAN-TEC" target="_blank">
+  <img src="https://img.shields.io/badge/Deploy_to_Replit-0d101e?style=for-the-badge&logo=replit&logoColor=white" alt="Deploy to Replit">
+</a>
+
+<a href="https://railway.app/new/template?template=https://github.com/Ianmuhandichi/IAN-TEC" target="_blank">
+  <img src="https://img.shields.io/badge/Deploy_to_Railway-0b0d0e?style=for-the-badge&logo=railway&logoColor=white" alt="Deploy to Railway">
+</a>
+
+<a href="https://render.com/deploy?repo=https://github.com/Ianmuhandichi/IAN-TEC" target="_blank">
+  <img src="https://img.shields.io/badge/Deploy_to_Render-46a3b7?style=for-the-badge&logo=render&logoColor=white" alt="Deploy to Render">
+</a>
+
+<a href="https://katabump.com" target="_blank">
+  <img src="https://img.shields.io/badge/Deploy_to_Katabump-ff0055?style=for-the-badge&logo=render&logoColor=white" alt="Deploy to Katabump">
+</a>
 </p>
-
-
-
-    
-
-
-
