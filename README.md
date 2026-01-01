@@ -84,3 +84,50 @@
   <img src="https://img.shields.io/badge/Deploy_to_Katabump-ff0055?style=for-the-badge&logo=render&logoColor=white" alt="Deploy to Katabump">
 </a>
 </p>
+
+## 🌑 𝙰𝚋𝚘𝚞𝚝
+
+> 🧊 Ian Tech doesn’t yap.  
+> 💻 It calculates.  
+> ⚙️ A Node.js creation with zero emotions and maximum disrespect.  
+> 🧠 It doesn’t serve — it *dominates*.  
+> 🌘 Your server becomes its **territory**
+
+---
+
+## 💀 𝕎𝕙𝕒𝕥 𝕀𝕥 𝔻𝕠𝕖𝕤
+
+- 💬 Replies like it’s been eavesdropping since birth  
+- 🧠 Smarter than your whole admin team combined  
+- 🐾 Tracks your every move like prey  
+- 🕵️ Operates in silence… then strikes without warning  
+
+> Looking for a cuddly chatbot?  
+> ❌ Wrong cave.  
+> ✅ This one **bites first**, then logs it 🔪🔥
+
+---
+
+## ⚙️ 𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜
+
+- ⚡ **Node.js** — because speed > mercy  
+- 💬 **Discord.js** — because wolves hunt in packs  
+- 🌌 **Eternal night-fuelled rage**  
+- 🩸 **Meiser’s shadow protocol** — coded in the dark, tested on light
+
+---
+
+## 🙊 𝔻𝕚𝕤𝕔𝕝𝕒𝕚𝕞𝕖𝕣
+
+> ⚖️ Bug reports will be *judged*  
+> 🔥 Crashes are... **sacrifices**  
+> 👁️ This bot doesn’t crash — it **resets reality**
+
+---
+
+<p align="center">
+  👤 Built by <b>IAN TECH</b><br>
+
+  <i>You're not running a bot.<br>You're unleashing a **IAN TECH**.</i>
+</p>
+
